@@ -1,0 +1,1 @@
+def kmp_search(text,pattern):
